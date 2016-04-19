@@ -126,7 +126,7 @@ is(x == y)
 
 #### Factors
 
-Factors are special categorical variables in R. They are simultaneoulsy very 
+Factors are special categorical variables in R. They are simultaneously very 
 powerful and very, very annoying to use. Factors are used to categorize data in an array and store it as levels.
 
 ```{r}
